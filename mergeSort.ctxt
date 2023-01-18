@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=mergeSort
+comment0.text=\r\n\ \ Merge\ sort\ is\ a\ divide\ and\ conquer\ algorithm\ that\ divides\ the\ array\ into\ two\ halves,\ sorts\ them\ recursively\ and\ then\ merges\ the\ sorted\ halves\ back\ together.\r\n\ \ This\ algorithm\ has\ a\ time\ complexity\ of\ O(n\ log\ n)\ in\ the\ worst,\ average\ and\ best\ case,\ making\ it\ more\ efficient\ than\ the\ previous\ algorithms\ mentioned.\r\n\ \ It's\ more\ efficient\ on\ large\ data\ sets\ and\ also\ it's\ a\ stable\ sorting\ algorithm\ which\ means\ that\ it\ preserves\ the\ order\ of\ elements\ with\ equal\ values.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ start\ end
+comment2.target=void\ mergeSort(int[],\ int,\ int)
+comment3.params=array\ start\ mid\ end
+comment3.target=void\ merge(int[],\ int,\ int,\ int)
+numComments=4

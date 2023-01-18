@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=quickSort
+comment0.text=\r\n\ Quicksort\ is\ a\ divide-and-conquer\ algorithm\ that\ uses\ a\ pivot\ element\ to\ partition\ an\ array\ into\ smaller\ sub-arrays,\ and\ then\ recursively\ sorts\ the\ sub-arrays.\r\n\ The\ pivot\ element\ is\ chosen\ such\ that\ all\ elements\ smaller\ than\ it\ come\ before\ all\ elements\ greater\ than\ it.\r\n\ This\ algorithm\ has\ a\ time\ complexity\ of\ O(n\ log\ n)\ on\ average,\ making\ it\ more\ efficient\ than\ bubble\ and\ insertion\ sort.\r\n\ It\ is\ not\ a\ stable\ algorithm,\ which\ means\ that\ the\ order\ of\ equal\ elements\ is\ not\ preserved.\r\n\ It's\ efficient\ for\ large\ data\ sets\ and\ it's\ also\ efficient\ when\ the\ data\ set\ is\ randomly\ ordered.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ start\ end
+comment2.target=void\ quickSort(int[],\ int,\ int)
+comment3.params=array\ start\ end
+comment3.target=int\ partition(int[],\ int,\ int)
+numComments=4
