@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=insertionSort
+comment0.text=\r\n\ insertion\ sort\ is\ a\ simple\ sorting\ algorithm\ that\ builds\ the\ final\ sorted\ list\ one\ item\ at\ a\ time.\r\n\ \ It\ compares\ each\ element\ with\ the\ one\ in\ front\ of\ it\ and\ swaps\ them\ if\ they\ are\ not\ in\ the\ correct\ order.\r\n\ \ \ has\ a\ time\ complexity\ of\ O(n^2)\ in\ the\ worst\ and\ average\ cases\ and\ O(n)\ in\ the\ best\ case\ which\ is\ when\ the\ array\ is\ already\ sorted\r\n\ \ \ making\ it\ more\ efficient\ than\ bubble\ sort.\ \ \ \ \r\n\ \ \ It\ is\ efficient\ for\ small\ data\ sets\ and\ also\ efficient\ when\ the\ data\ set\ is\ already\ partially\ sorted.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
